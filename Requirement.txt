@@ -1,5 +1,0 @@
-Pandas
-NumPy
-Seaborn
-Xgboost
-Scikit-learn
